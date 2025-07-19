@@ -1,0 +1,26 @@
+
+*.env
+*.pyac
+*.key
+*.pem
+*.p12
+*.crt
+*.cer
+secrets/
+config/
+__pycache__/
+*.pyc
+
+
+.vscode/
+
+.ipynb_checkpoints/
+
+venv/
+.env/
+
+# Trong file .gitignore
+logs/
+*/logs/
+*.log
+
